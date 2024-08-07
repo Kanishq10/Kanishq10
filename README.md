@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just a curious human.<br>Currently exploring DATA SCIENCE.
+Just a curious Human.<br>
 
 
 ## 🌐 Socials:
