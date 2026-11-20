@@ -1,24 +1,44 @@
-# Kanishq10
+# GitHub Portfolio Overview
 
-Source code and project resources for Kanishq10.
+**Learning archive** · A recruiter-focused profile overview for this GitHub portfolio.
 
 ## Overview
 
-This repository contains the source code and resources for **Kanishq10**.
+A recruiter-focused profile overview for this GitHub portfolio.
 
-## Getting Started
+## Technology Stack
 
-```bash
-git clone https://github.com/Kanishq10/Kanishq10.git
-cd Kanishq10
+- `Tools and configuration`
+
+## How the Repository Works
+
+```mermaid
+flowchart LR
+    N0["Repository input<br/> Files, datasets, or user actions"]
+    N1["Core logic<br/> Apply project-specific processing"]
+    N0 --> N1
+    N2["Result<br/> Display, export, or store the outcome"]
+    N1 --> N2
 ```
 
-Review the project files and configuration to install dependencies and start the application.
+| Stage | Responsibility |
+|---|---|
+| **Repository input** | Files, datasets, or user actions |
+| **Core logic** | Apply project-specific processing |
+| **Result** | Display, export, or store the outcome |
 
-## Repository Contents
+## Concepts Covered
 
-- `README.md`
+- Project structure
+- Core implementation
+- Practical debugging
+- Version control
+- Incremental experimentation
 
-## Contributing
+## Recruiter Summary
 
-Contributions are welcome. Fork the repository, create a feature branch, and open a pull request.
+This repository shows hands-on practice, iterative learning, and problem-solving across the technologies listed above. It is most useful as evidence of foundational growth and experimentation rather than as a production release.
+
+---
+
+<sub>Documentation is concise and project-focused; source code was not modified.</sub>
