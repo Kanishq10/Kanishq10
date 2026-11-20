@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <defs>
+    <linearGradient id="shell" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#211916"/>
+      <stop offset="100%" stop-color="#30231E"/>
+    </linearGradient>
+    <linearGradient id="mug" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F7E7D2"/>
+      <stop offset="100%" stop-color="#DDBB97"/>
+    </linearGradient>
+    <filter id="soft-shadow" x="-30%" y="-30%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#080605" flood-opacity=".35"/>
+    </filter>
+  </defs>
+
+  <rect x="4" y="4" width="1192" height="752" rx="34" fill="url(#shell)" stroke="#795B47" stroke-width="4"/>
+  <path d="M4 38Q4 4 38 4h1124q34 0 34 34v50H4z" fill="#382922"/>
+  <circle cx="43" cy="47" r="10" fill="#E38B78"/>
+  <circle cx="77" cy="47" r="10" fill="#E5BC79"/>
+  <circle cx="111" cy="47" r="10" fill="#A4B18A"/>
+  <text x="600" y="55" text-anchor="middle" fill="#D9C6B3" font-family="monospace" font-size="17">kanishq@github:~ /profile</text>
+  <text x="1145" y="55" text-anchor="end" fill="#B99575" font-family="monospace" font-size="15">cappuccino mode</text>
+
+  <rect x="28" y="112" width="344" height="610" rx="26" fill="#2C211C" stroke="#634735" stroke-width="2"/>
+  <text x="54" y="151" fill="#E6AD78" font-family="monospace" font-size="15"># little coffee companion</text>
+
+  <g transform="translate(0 10)" filter="url(#soft-shadow)">
+    <circle cx="200" cy="332" r="126" fill="#3B2A22" stroke="#916544" stroke-width="3"/>
+    <circle cx="200" cy="332" r="108" fill="#F2DFCA"/>
+    <path d="M115 315L101 245Q99 225 117 236L160 265Q200 246 240 265L283 236Q301 225 299 245L285 315Q301 386 257 422Q200 466 143 422Q99 386 115 315Z" fill="#B67C53" stroke="#E3B990" stroke-width="4"/>
+    <path d="M127 294L117 252L153 277M273 294L283 252L247 277" fill="#E7B8A0" stroke="#8A5E43" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M144 326Q158 311 174 326M226 326Q242 311 257 326" fill="none" stroke="#3A2A24" stroke-width="7" stroke-linecap="round"/>
+    <path d="M191 349Q200 357 209 349L200 341Z" fill="#8B4F4B"/>
+    <path d="M200 357Q188 370 177 362M200 357Q212 370 223 362" fill="none" stroke="#5B3D32" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="154" cy="352" r="12" fill="#E3A28E" opacity=".7"/>
+    <circle cx="246" cy="352" r="12" fill="#E3A28E" opacity=".7"/>
+    <path d="M128 373L82 363M130 389L86 393M272 373L318 363M270 389L314 393" stroke="#8A5E43" stroke-width="3" stroke-linecap="round"/>
+    <path d="M145 409Q200 440 255 409L266 456Q200 488 134 456Z" fill="#D7A477" stroke="#8A5E43" stroke-width="4"/>
+    <path d="M127 445Q104 451 113 476Q124 500 165 485M273 445Q296 451 287 476Q276 500 235 485" fill="none" stroke="#B67C53" stroke-width="20" stroke-linecap="round"/>
+    <path d="M168 449H230V487Q230 512 199 512Q168 512 168 487Z" fill="url(#mug)" stroke="#7C5944" stroke-width="4"/>
+    <path d="M230 458H244Q263 458 259 477Q256 491 230 488" fill="none" stroke="#7C5944" stroke-width="5"/>
+    <path d="M178 467H221V485Q221 499 199 499Q178 499 178 485Z" fill="#9B6647"/>
+    <path d="M187 474Q199 461 212 474Q199 487 187 474Z" fill="#F1DCC6"/>
+    <path d="M188 470Q184 463 177 468Q176 475 188 480M210 470Q214 463 221 468Q222 475 210 480" fill="#F2DFCA"/>
+    <path d="M199 473Q195 467 190 471Q190 477 199 482Q208 477 208 471Q203 467 199 473Z" fill="#8B4F4B"/>
+  </g>
+
+  <g fill="#E6AD78">
+    <path d="M76 206l7 14 15 2-11 10 3 15-14-8-13 8 3-15-11-10 15-2z"/>
+    <path d="M316 520l5 10 12 2-9 8 2 12-10-6-11 6 3-12-9-8 12-2z"/>
+    <circle cx="81" cy="500" r="5"/><circle cx="315" cy="194" r="5"/>
+  </g>
+  <path d="M82 554h236" stroke="#694A37" stroke-width="2" stroke-dasharray="4 9"/>
+  <text x="200" y="587" text-anchor="middle" fill="#F0D8BE" font-family="monospace" font-size="18">coffee in, good code out</text>
+  <text x="200" y="619" text-anchor="middle" fill="#C5A487" font-family="monospace" font-size="14">curious by nature · builder by habit</text>
+  <rect x="91" y="659" width="218" height="34" rx="17" fill="#3F3027" stroke="#795B47"/>
+  <circle cx="111" cy="676" r="6" fill="#A4B18A">
+    <animate attributeName="opacity" values=".3;1;.3" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="199" y="681" text-anchor="middle" fill="#D9C6B3" font-family="monospace" font-size="13">READY TO BUILD</text>
+
+  <rect x="394" y="112" width="778" height="610" rx="26" fill="#191310" stroke="#634735" stroke-width="2"/>
+  <text x="428" y="151" fill="#D3C0AD" font-family="monospace" font-size="17">kanishq@portfolio <tspan fill="#E6AD78">~</tspan> $ whoami --with-stack</text>
+  <rect x="428" y="169" width="708" height="2" rx="1" fill="#594235"/>
+
+  <g font-family="monospace" font-size="16">
+    <text x="428" y="207" fill="#E6AD78">NAME</text><text x="570" y="207" fill="#776356">······················</text><text x="762" y="207" fill="#D3C0AD">Kanishq Sharma</text>
+    <text x="428" y="239" fill="#E6AD78">ROLE</text><text x="570" y="239" fill="#776356">······················</text><text x="762" y="239" fill="#D3C0AD">Full-Stack Developer</text>
+    <text x="428" y="271" fill="#E6AD78">FOCUS</text><text x="570" y="271" fill="#776356">······················</text><text x="762" y="271" fill="#D3C0AD">Web apps · APIs · data projects</text>
+    <text x="428" y="303" fill="#E6AD78">STRENGTH</text><text x="570" y="303" fill="#776356">······················</text><text x="762" y="303" fill="#F0B7A2">Playwright browser automation</text>
+    <text x="428" y="335" fill="#E6AD78">LANGUAGES</text><text x="570" y="335" fill="#776356">······················</text><text x="762" y="335" fill="#D3C0AD">JavaScript · TypeScript · Python</text>
+    <text x="762" y="359" fill="#D3C0AD">Java · Dart · SQL · HTML · CSS</text>
+    <text x="428" y="391" fill="#E6AD78">FRONTEND</text><text x="570" y="391" fill="#776356">······················</text><text x="762" y="391" fill="#BFD3B2">React · Next.js · Vite · Flutter</text>
+    <text x="428" y="423" fill="#E6AD78">BACKEND</text><text x="570" y="423" fill="#776356">······················</text><text x="762" y="423" fill="#BFD9E8">Node.js · Express · REST APIs</text>
+    <text x="762" y="447" fill="#BFD9E8">MongoDB · MySQL</text>
+    <text x="428" y="479" fill="#E6AD78">DATA / AI</text><text x="570" y="479" fill="#776356">······················</text><text x="762" y="479" fill="#D4C1E8">Pandas · NumPy · scikit-learn</text>
+    <text x="762" y="503" fill="#D4C1E8">Jupyter · Power BI · Tableau</text>
+    <text x="428" y="535" fill="#E6AD78">TOOLBOX</text><text x="570" y="535" fill="#776356">······················</text><text x="762" y="535" fill="#D3C0AD">Git · Docker · npm</text>
+  </g>
+
+  <rect x="428" y="558" width="708" height="2" rx="1" fill="#594235"/>
+  <text x="428" y="589" fill="#E6AD78" font-family="monospace" font-size="15">PROJECT LANES</text>
+  <g font-family="monospace" font-size="13" text-anchor="middle">
+    <rect x="428" y="605" width="162" height="40" rx="14" fill="#413027" stroke="#B98660"/>
+    <text x="509" y="631" fill="#F0D8BE">WEB APPS</text>
+    <rect x="602" y="605" width="162" height="40" rx="14" fill="#34332B" stroke="#A4B18A"/>
+    <text x="683" y="631" fill="#D5E0C8">AUTOMATION</text>
+    <rect x="776" y="605" width="162" height="40" rx="14" fill="#33303B" stroke="#BCA2D3"/>
+    <text x="857" y="631" fill="#E0D3EE">DATA &amp; ML</text>
+    <rect x="950" y="605" width="162" height="40" rx="14" fill="#2F3438" stroke="#94B8C6"/>
+    <text x="1031" y="631" fill="#C7DDE5">FLUTTER</text>
+  </g>
+  <g fill="none" stroke="#88664E" stroke-width="2" stroke-linecap="round">
+    <path d="M460 675H1100" stroke-dasharray="3 9"/>
+    <path d="M460 675l9-6M460 675l9 6M1100 675l-9-6M1100 675l-9 6"/>
+  </g>
+  <text x="780" y="704" text-anchor="middle" fill="#B99A7D" font-family="monospace" font-size="13">PLAN  <tspan fill="#E6AD78">→</tspan>  BUILD  <tspan fill="#E6AD78">→</tspan>  AUTOMATE  <tspan fill="#E6AD78">→</tspan>  REFINE</text>
+</svg>
