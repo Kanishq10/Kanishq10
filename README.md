@@ -1,14 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:312E81,100:9333EA&text=Kanishq%20Sharma&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Data%20%26%20Automation&descAlignY=58&descSize=18" alt="Kanishq Sharma profile banner"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg"/>
+  <img src="./assets/header.svg" width="100%" alt="Kanishq Sharma - software developer"/>
+</picture>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kanishq10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanishq10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanishq_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishq-sharma-9b49661bb)
-[![Holopin](https://img.shields.io/badge/Holopin-Badges-00BFA6?style=for-the-badge&logo=holopin&logoColor=white)](https://holopin.io/@kanishq10)
+[![Holopin](https://img.shields.io/badge/Holopin-kani10-00BFA6?style=for-the-badge&logo=holopin&logoColor=white)](https://holopin.io/@kani10)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+full-stack+applications;Exploring+data+science+and+machine+learning;Creating+automation+and+developer+tools;Learning+%7C+Building+%7C+Improving" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=C4B5FD&center=true&vCenter=true&repeat=true&width=780&lines=FULL-STACK+DEVELOPER;BUILDING+APPLICATIONS+WITH+REAL+PURPOSE;PYTHON+%7C+JAVA+%7C+JAVASCRIPT+%7C+TYPESCRIPT;DATA+SCIENCE+%7C+MACHINE+LEARNING;AUTOMATION+%7C+API+DESIGN+%7C+FLUTTER" alt="Animated developer specialties"/>
 
 </div>
 
@@ -36,6 +39,13 @@ My repositories explore practical application development, REST APIs, modern web
     <td>Application projects, analysis notebooks, learning archives, and coding exercises</td>
   </tr>
 </table>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/system-map.svg"/>
+    <img src="./assets/system-map.svg" width="100%" alt="Developer system map"/>
+  </picture>
+</div>
 
 ## 🧰 Technology
 
@@ -141,7 +151,7 @@ My repositories explore practical application development, REST APIs, modern web
 
 <div align="center">
 
-[![@kanishq10's Holopin board](https://holopin.me/kanishq10)](https://holopin.io/@kanishq10)
+[![@kani10's Holopin board](https://holopin.me/kani10)](https://holopin.io/@kani10)
 
 <br/>
 
@@ -153,4 +163,11 @@ My repositories explore practical application development, REST APIs, modern web
 
 [![Profile views](https://komarev.com/ghpvc/?username=Kanishq10&label=Profile+Views&color=7C3AED&style=for-the-badge)](https://github.com/Kanishq10)
 
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer.svg"/>
+    <img src="./assets/footer.svg" width="100%" alt="Build, learn, automate, improve"/>
+  </picture>
 </div>
