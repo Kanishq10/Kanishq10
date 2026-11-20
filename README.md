@@ -1,55 +1,156 @@
-# Kanishq10
+<div align="center">
 
-A software project demonstrating a practical implementation and project workflow.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:312E81,100:9333EA&text=Kanishq%20Sharma&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Data%20%26%20Automation&descAlignY=58&descSize=18" alt="Kanishq Sharma profile banner"/>
 
-## Overview
+[![GitHub](https://img.shields.io/badge/GitHub-Kanishq10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanishq10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanishq_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishq-sharma-9b49661bb)
+[![Holopin](https://img.shields.io/badge/Holopin-Badges-00BFA6?style=for-the-badge&logo=holopin&logoColor=white)](https://holopin.io/@kanishq10)
 
-This repository is maintained as a learning project or technical archive. It documents an implementation area, a set of practical exercises, or an experiment while preserving a focused and inspectable project structure.
+<br/>
 
-## Key Features
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+full-stack+applications;Exploring+data+science+and+machine+learning;Creating+automation+and+developer+tools;Learning+%7C+Building+%7C+Improving" alt="Typing introduction"/>
 
-- Self-contained implementation
-- Browser or tool-based interaction
-- Reusable project structure
-- Clear input-to-output workflow
+</div>
 
-## Technology Stack
+## 👋 About
 
-| Area | Technology |
-|---|---|
-| Library / Framework / Tool | Repository-specific tooling |
+I am a software developer building across the full stack, with hands-on work in JavaScript, TypeScript, Java, Python, Flutter, data science, and automation.
 
-## Architecture and Data Flow
+My repositories explore practical application development, REST APIs, modern web interfaces, browser automation, data analysis, machine-learning workflows, and cross-platform mobile experiences.
 
-```mermaid
-flowchart LR
-    N0["Input<br/> Files, data, or user actions enter the system."]
-    N1["Processing<br/> Project-specific logic transforms or coordinates the input."]
-    N2["State or Output<br/> A result is persisted, displayed, or exported."]
-    N0 --> N1
-    N1 --> N2
-```
+<table>
+  <tr>
+    <td><b>Focus</b></td>
+    <td>Full-stack development, API architecture, automation, data analysis, and machine learning</td>
+  </tr>
+  <tr>
+    <td><b>Working with</b></td>
+    <td>React, Next.js, Node.js, Express, Flutter, Python, Java, and SQL</td>
+  </tr>
+  <tr>
+    <td><b>Approach</b></td>
+    <td>Build practical projects, study core concepts, and improve them through iteration</td>
+  </tr>
+  <tr>
+    <td><b>Portfolio</b></td>
+    <td>Application projects, analysis notebooks, learning archives, and coding exercises</td>
+  </tr>
+</table>
 
-| Stage | Responsibility |
-|---|---|
-| **Input** | Files, data, or user actions enter the system. |
-| **Processing** | Project-specific logic transforms or coordinates the input. |
-| **State or Output** | A result is persisted, displayed, or exported. |
+## 🧰 Technology
 
-## Setup
+### Languages
 
-1. Review the repository structure and applicable runtime requirement.
-2. Open the entry-point file in an editor or IDE.
-3. Run or open it using the tool required for the project language.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Usage
+### Frameworks and Platforms
 
-Run the repository entry point using the language or platform documented in the setup section.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React_Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-## Configuration
+### Data, AI, and Developer Tools
 
-No mandatory repository-specific configuration is documented by the project structure. Environment or runtime options may be defined inside the relevant entry-point file or platform settings.
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit_Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Verification
+## 🚀 Featured Work
 
-- Run the project entry point and verify the primary success and error paths.
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Kanishq10/Toque_chef_hire">Toque Chef Hire</a></h3>
+      <p>React Router marketplace application for discovering chef services and managing hiring workflows.</p>
+      <p><code>React Router</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Docker</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Kanishq10/MetaTransfer-Frontend">MetaTransfer Frontend</a></h3>
+      <p>React client interface for a transfer-management application with modular UI and state flows.</p>
+      <p><code>React</code> <code>JavaScript</code> <code>REST API</code> <code>CSS</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Kanishq10/MetaTransfer-Backend">MetaTransfer Backend</a></h3>
+      <p>Node.js REST backend organized around routes, controllers, middleware, and data models.</p>
+      <p><code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>REST API</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Kanishq10/NextJS_shadcn_Dashboared">Next.js Dashboard</a></h3>
+      <p>Modern dashboard interface built with Next.js, reusable components, and responsive layouts.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Kanishq10/Netflix_content_analysis">Netflix Content Analysis</a></h3>
+      <p>End-to-end notebook project covering data preparation, exploration, visualization, and modeling.</p>
+      <p><code>Python</code> <code>Pandas</code> <code>Jupyter</code> <code>Machine Learning</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Kanishq10/world_time_flutter">World Time Flutter</a></h3>
+      <p>Cross-platform Flutter application presenting world-time information through a responsive interface.</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>REST API</code> <code>Cross-platform</code></p>
+    </td>
+  </tr>
+</table>
+
+## 📚 Learning and Problem Solving
+
+- [DSA](https://github.com/Kanishq10/DSA) — Java implementations for algorithms and data structures
+- [LeetCode Submissions](https://github.com/Kanishq10/Leetcode-submissions) — Recorded solutions and problem-solving patterns
+- [Machine Learning Projects](https://github.com/Kanishq10/Machine_Learning_Projects) — Regression and classification experiments
+- [Data Science Practice](https://github.com/Kanishq10/Data_Science_Practice) — Python, statistics, SQL, visualization, and data workflows
+- [Developer Archive](https://github.com/Kanishq10/Dev-Archive) — Broad collection of experiments across languages and frameworks
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kanishq10&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Kanishq10&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishq10&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages"/>
+<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kanishq10&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
+
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![@kanishq10's Holopin board](https://holopin.me/kanishq10)](https://holopin.io/@kanishq10)
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kanishq10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/>
+
+</div>
+
+<div align="center">
+
+[![Profile views](https://komarev.com/ghpvc/?username=Kanishq10&label=Profile+Views&color=7C3AED&style=for-the-badge)](https://github.com/Kanishq10)
+
+</div>
