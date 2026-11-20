@@ -5,13 +5,13 @@
   <img src="./assets/header.svg" width="100%" alt="Kanishq Sharma - software developer"/>
 </picture>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Kanishq10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanishq10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanishq_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishq-sharma-9b49661bb)
-[![Holopin](https://img.shields.io/badge/Holopin-kani10-00BFA6?style=for-the-badge&logo=holopin&logoColor=white)](https://holopin.io/@kani10)
+[![GitHub](https://img.shields.io/badge/GitHub-Kanishq10-6F4E37?style=for-the-badge&logo=github&logoColor=FFF9F0)](https://github.com/Kanishq10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanishq_Sharma-6F4E37?style=for-the-badge&logo=linkedin&logoColor=FFF9F0)](https://www.linkedin.com/in/kanishq-sharma-9b49661bb)
+[![Holopin](https://img.shields.io/badge/Holopin-kani10-6F4E37?style=for-the-badge&logo=holopin&logoColor=FFF9F0)](https://holopin.io/@kani10)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=C4B5FD&center=true&vCenter=true&repeat=true&width=780&lines=FULL-STACK+DEVELOPER;BUILDING+APPLICATIONS+WITH+REAL+PURPOSE;PYTHON+%7C+JAVA+%7C+JAVASCRIPT+%7C+TYPESCRIPT;DATA+SCIENCE+%7C+MACHINE+LEARNING;AUTOMATION+%7C+API+DESIGN+%7C+FLUTTER" alt="Animated developer specialties"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=795B47&center=true&vCenter=true&repeat=true&width=820&lines=FULL-STACK+DEVELOPER;PLAYWRIGHT+%7C+BROWSER+AUTOMATION;PYTHON+%7C+JAVA+%7C+JAVASCRIPT+%7C+TYPESCRIPT;DATA+SCIENCE+%7C+MACHINE+LEARNING;BUILDING+APPLICATIONS+WITH+CARE" alt="Animated developer specialties"/>
 
 </div>
 
@@ -19,16 +19,16 @@
 
 I am a software developer building across the full stack, with hands-on work in JavaScript, TypeScript, Java, Python, Flutter, data science, and automation.
 
-My repositories explore practical application development, REST APIs, modern web interfaces, browser automation, data analysis, machine-learning workflows, and cross-platform mobile experiences.
+My repositories explore practical application development, REST APIs, modern web interfaces, browser automation, data analysis, machine-learning workflows, and cross-platform mobile experiences. One of my strengths is **browser automation with Playwright**: creating reliable end-to-end workflows and reducing repetitive manual work.
 
 <table>
   <tr>
     <td><b>Focus</b></td>
-    <td>Full-stack development, API architecture, automation, data analysis, and machine learning</td>
+    <td>Full-stack development, Playwright automation, API architecture, data analysis, and machine learning</td>
   </tr>
   <tr>
     <td><b>Working with</b></td>
-    <td>React, Next.js, Node.js, Express, Flutter, Python, Java, and SQL</td>
+    <td>Playwright, React, Next.js, Node.js, Express, Flutter, Python, Java, and SQL</td>
   </tr>
   <tr>
     <td><b>Approach</b></td>
@@ -51,38 +51,49 @@ My repositories explore practical application development, REST APIs, modern web
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6F4E37?style=for-the-badge&logo=javascript&logoColor=FFF9F0)
+![TypeScript](https://img.shields.io/badge/TypeScript-6F4E37?style=for-the-badge&logo=typescript&logoColor=FFF9F0)
+![Python](https://img.shields.io/badge/Python-6F4E37?style=for-the-badge&logo=python&logoColor=FFF9F0)
+![Java](https://img.shields.io/badge/Java-6F4E37?style=for-the-badge&logo=openjdk&logoColor=FFF9F0)
+![Dart](https://img.shields.io/badge/Dart-6F4E37?style=for-the-badge&logo=dart&logoColor=FFF9F0)
+![HTML5](https://img.shields.io/badge/HTML5-6F4E37?style=for-the-badge&logo=html5&logoColor=FFF9F0)
+![CSS3](https://img.shields.io/badge/CSS3-6F4E37?style=for-the-badge&logo=css3&logoColor=FFF9F0)
+![SQL](https://img.shields.io/badge/SQL-6F4E37?style=for-the-badge&logo=postgresql&logoColor=FFF9F0)
 
 ### Frameworks and Platforms
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React_Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-6F4E37?style=for-the-badge&logo=react&logoColor=FFF9F0)
+![Next.js](https://img.shields.io/badge/Next.js-6F4E37?style=for-the-badge&logo=nextdotjs&logoColor=FFF9F0)
+![Node.js](https://img.shields.io/badge/Node.js-6F4E37?style=for-the-badge&logo=nodedotjs&logoColor=FFF9F0)
+![Express.js](https://img.shields.io/badge/Express.js-6F4E37?style=for-the-badge&logo=express&logoColor=FFF9F0)
+![Flutter](https://img.shields.io/badge/Flutter-6F4E37?style=for-the-badge&logo=flutter&logoColor=FFF9F0)
+![React_Router](https://img.shields.io/badge/React_Router-6F4E37?style=for-the-badge&logo=reactrouter&logoColor=FFF9F0)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-6F4E37?style=for-the-badge&logo=tailwindcss&logoColor=FFF9F0)
+![Vite](https://img.shields.io/badge/Vite-6F4E37?style=for-the-badge&logo=vite&logoColor=FFF9F0)
 
 ### Data, AI, and Developer Tools
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit_Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-6F4E37?style=for-the-badge&logo=playwright&logoColor=FFF9F0)
+![Pandas](https://img.shields.io/badge/Pandas-6F4E37?style=for-the-badge&logo=pandas&logoColor=FFF9F0)
+![NumPy](https://img.shields.io/badge/NumPy-6F4E37?style=for-the-badge&logo=numpy&logoColor=FFF9F0)
+![Scikit_Learn](https://img.shields.io/badge/scikit--learn-6F4E37?style=for-the-badge&logo=scikitlearn&logoColor=FFF9F0)
+![Jupyter](https://img.shields.io/badge/Jupyter-6F4E37?style=for-the-badge&logo=jupyter&logoColor=FFF9F0)
+![Power_BI](https://img.shields.io/badge/Power_BI-6F4E37?style=for-the-badge&logo=powerbi&logoColor=FFF9F0)
+![Tableau](https://img.shields.io/badge/Tableau-6F4E37?style=for-the-badge&logo=tableau&logoColor=FFF9F0)
+![MySQL](https://img.shields.io/badge/MySQL-6F4E37?style=for-the-badge&logo=mysql&logoColor=FFF9F0)
+![MongoDB](https://img.shields.io/badge/MongoDB-6F4E37?style=for-the-badge&logo=mongodb&logoColor=FFF9F0)
+![Git](https://img.shields.io/badge/Git-6F4E37?style=for-the-badge&logo=git&logoColor=FFF9F0)
+![Docker](https://img.shields.io/badge/Docker-6F4E37?style=for-the-badge&logo=docker&logoColor=FFF9F0)
+
+### Browser Automation
+
+Playwright is one of my key strengths. I use browser automation to model real user journeys, validate end-to-end behavior, and turn repetitive web workflows into dependable scripts.
+
+<div align="center">
+
+`USER JOURNEY`　☕　`PLAYWRIGHT`　☕　`ASSERTIONS`　☕　`RELIABLE FLOW`
+
+</div>
 
 ## 🚀 Featured Work
 
@@ -137,31 +148,26 @@ My repositories explore practical application development, REST APIs, modern web
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kanishq10&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=Kanishq10&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kanishq10&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=18&bg_color=FFF9F0&title_color=4B3429&text_color=795B47&icon_color=B7794B&border_color=D8BFA5&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Kanishq10&hide_border=true&border_radius=18&background=FFF9F0&ring=B7794B&fire=C47C56&currStreakLabel=6F4E37&sideLabels=795B47&dates=9A806B&stroke=D8BFA5&currStreakNum=4B3429&sideNums=4B3429" alt="GitHub streak"/>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishq10&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages"/>
-<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kanishq10&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishq10&layout=compact&hide_border=true&border_radius=18&langs_count=10&bg_color=FFF9F0&title_color=4B3429&text_color=795B47&border_color=D8BFA5" alt="Top languages"/>
 
 </div>
 
-## 🏆 Achievements
+## ☕ Holopin Badge Board
 
 <div align="center">
 
 [![@kani10's Holopin board](https://holopin.me/kani10)](https://holopin.io/@kani10)
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kanishq10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/>
-
 </div>
 
 <div align="center">
 
-[![Profile views](https://komarev.com/ghpvc/?username=Kanishq10&label=Profile+Views&color=7C3AED&style=for-the-badge)](https://github.com/Kanishq10)
+[![Profile views](https://komarev.com/ghpvc/?username=Kanishq10&label=Profile+Views&color=6F4E37&style=for-the-badge)](https://github.com/Kanishq10)
 
 </div>
 
